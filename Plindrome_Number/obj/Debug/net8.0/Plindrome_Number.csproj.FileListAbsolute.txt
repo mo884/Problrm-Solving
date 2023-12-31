@@ -1,0 +1,14 @@
+D:\ITI\Problem Solving\Plindrome_Number\bin\Debug\net8.0\Plindrome_Number.exe
+D:\ITI\Problem Solving\Plindrome_Number\bin\Debug\net8.0\Plindrome_Number.deps.json
+D:\ITI\Problem Solving\Plindrome_Number\bin\Debug\net8.0\Plindrome_Number.runtimeconfig.json
+D:\ITI\Problem Solving\Plindrome_Number\bin\Debug\net8.0\Plindrome_Number.dll
+D:\ITI\Problem Solving\Plindrome_Number\bin\Debug\net8.0\Plindrome_Number.pdb
+D:\ITI\Problem Solving\Plindrome_Number\obj\Debug\net8.0\Plindrome_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Problem Solving\Plindrome_Number\obj\Debug\net8.0\Plindrome_Number.AssemblyInfoInputs.cache
+D:\ITI\Problem Solving\Plindrome_Number\obj\Debug\net8.0\Plindrome_Number.AssemblyInfo.cs
+D:\ITI\Problem Solving\Plindrome_Number\obj\Debug\net8.0\Plindrome_Number.csproj.CoreCompileInputs.cache
+D:\ITI\Problem Solving\Plindrome_Number\obj\Debug\net8.0\Plindrome_Number.dll
+D:\ITI\Problem Solving\Plindrome_Number\obj\Debug\net8.0\refint\Plindrome_Number.dll
+D:\ITI\Problem Solving\Plindrome_Number\obj\Debug\net8.0\Plindrome_Number.pdb
+D:\ITI\Problem Solving\Plindrome_Number\obj\Debug\net8.0\Plindrome_Number.genruntimeconfig.cache
+D:\ITI\Problem Solving\Plindrome_Number\obj\Debug\net8.0\ref\Plindrome_Number.dll
