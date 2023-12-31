@@ -1,0 +1,14 @@
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\bin\Debug\net8.0\Sheet Assiut Problem Solving.exe
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\bin\Debug\net8.0\Sheet Assiut Problem Solving.deps.json
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\bin\Debug\net8.0\Sheet Assiut Problem Solving.runtimeconfig.json
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\bin\Debug\net8.0\Sheet Assiut Problem Solving.dll
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\bin\Debug\net8.0\Sheet Assiut Problem Solving.pdb
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\obj\Debug\net8.0\Sheet Assiut Problem Solving.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\obj\Debug\net8.0\Sheet Assiut Problem Solving.AssemblyInfoInputs.cache
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\obj\Debug\net8.0\Sheet Assiut Problem Solving.AssemblyInfo.cs
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\obj\Debug\net8.0\Sheet Assiut Problem Solving.csproj.CoreCompileInputs.cache
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\obj\Debug\net8.0\Sheet Assiut Problem Solving.dll
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\obj\Debug\net8.0\refint\Sheet Assiut Problem Solving.dll
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\obj\Debug\net8.0\Sheet Assiut Problem Solving.pdb
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\obj\Debug\net8.0\Sheet Assiut Problem Solving.genruntimeconfig.cache
+D:\ITI\Problem Solving\Sheet Assiut Problem Solving\obj\Debug\net8.0\ref\Sheet Assiut Problem Solving.dll
