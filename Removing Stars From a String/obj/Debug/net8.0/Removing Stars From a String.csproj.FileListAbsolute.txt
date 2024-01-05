@@ -1,0 +1,14 @@
+D:\ITI\Problem Solving\Removing Stars From a String\bin\Debug\net8.0\Removing Stars From a String.exe
+D:\ITI\Problem Solving\Removing Stars From a String\bin\Debug\net8.0\Removing Stars From a String.deps.json
+D:\ITI\Problem Solving\Removing Stars From a String\bin\Debug\net8.0\Removing Stars From a String.runtimeconfig.json
+D:\ITI\Problem Solving\Removing Stars From a String\bin\Debug\net8.0\Removing Stars From a String.dll
+D:\ITI\Problem Solving\Removing Stars From a String\bin\Debug\net8.0\Removing Stars From a String.pdb
+D:\ITI\Problem Solving\Removing Stars From a String\obj\Debug\net8.0\Removing Stars From a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Problem Solving\Removing Stars From a String\obj\Debug\net8.0\Removing Stars From a String.AssemblyInfoInputs.cache
+D:\ITI\Problem Solving\Removing Stars From a String\obj\Debug\net8.0\Removing Stars From a String.AssemblyInfo.cs
+D:\ITI\Problem Solving\Removing Stars From a String\obj\Debug\net8.0\Removing Stars From a String.csproj.CoreCompileInputs.cache
+D:\ITI\Problem Solving\Removing Stars From a String\obj\Debug\net8.0\Removing Stars From a String.dll
+D:\ITI\Problem Solving\Removing Stars From a String\obj\Debug\net8.0\refint\Removing Stars From a String.dll
+D:\ITI\Problem Solving\Removing Stars From a String\obj\Debug\net8.0\Removing Stars From a String.pdb
+D:\ITI\Problem Solving\Removing Stars From a String\obj\Debug\net8.0\Removing Stars From a String.genruntimeconfig.cache
+D:\ITI\Problem Solving\Removing Stars From a String\obj\Debug\net8.0\ref\Removing Stars From a String.dll
